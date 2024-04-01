@@ -1,0 +1,21 @@
+==========Home 01=======
+01.Header Top
+02.Header
+03.Banner
+04.About Us
+05.countdown
+06.Service
+07.How It Works
+08.Skills
+09.Testimonials
+10.Team
+11.Faq
+12.Contact
+13.Blog
+14.Cta
+15.Footer
+
+
+=======common==========
+01.btn
+02.Subheading
